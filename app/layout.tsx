@@ -27,7 +27,7 @@ export const metadata: Metadata = {
       "A developer tool to merge, normalize, and transform multiple API JSON responses into frontend-ready data with TypeScript types and React Query hooks.",
     images: [
       {
-        url: "/seo-preview-image.png",
+        url: "/seo-preview-image.jpg",
       },
     ],
     type: "website",
@@ -37,7 +37,7 @@ export const metadata: Metadata = {
     title: "API Data Normaliser - JSON to Frontend-Ready Data",
     description:
       "A developer tool to merge, normalize, and transform multiple API JSON responses into frontend-ready data with TypeScript types and React Query hooks.",
-    images: ["/seo-preview-image.png"],
+    images: ["/seo-preview-image.jpg"],
   },
 };
 
