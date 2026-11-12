@@ -4,7 +4,7 @@ A browser-based developer tool that takes raw JSON from one or more API response
 
 ---
 
-**Live demo:** [api-normaliser.vercel.app](https://api-normaliser.vercel.app) — no login required
+**Live demo:** [Api Normaliser](https://www.apinormaliser.com/) — no login required
 
 ---
 
